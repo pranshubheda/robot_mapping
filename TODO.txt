@@ -1,0 +1,4 @@
+    for each cell in the grid:
+
+        if(grid lies in the spectrum)
+            update its probability  based on the sensor model (locn, sensor data)
